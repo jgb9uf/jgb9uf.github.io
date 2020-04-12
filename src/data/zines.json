@@ -1,0 +1,81 @@
+{
+    "Z02": {
+        "id": "Z02",
+        "title": "GreenZine",
+        "date": "",
+        "preview": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/01-small.jpg",
+        "pages": [
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/01.jpg",
+                "small": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/01-small.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/02.jpg",
+                "small": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/02-small.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/03.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/04.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/05.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/06.jpg",
+                "small": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/06-small.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/07.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/08.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/greenzine/09.jpg"
+            }
+        ]
+    },
+    "Z01": {
+        "id": "Z01",
+        "title": "ScrewZine",
+        "date": "",
+        "preview": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/preview.jpg",
+        "pages": [
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/01.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/02.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/03.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/04.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/05.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/06.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/07.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/08.png"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/09.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/10.jpg"
+            },
+            {
+                "full": "https://nighterrands.s3.amazonaws.com/images/zines/screwzine/11.jpg"
+            }
+        ]
+    }
+}
